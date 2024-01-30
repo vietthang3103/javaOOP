@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
-public class Slide30 {
+/**
+ * slide30
+ */
+public class slide30 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int n, soDu, sumOfNumbers = 0;
